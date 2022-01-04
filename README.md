@@ -1,12 +1,4 @@
 
-# Ref
-
-[[논문리뷰]Clinical Natural Language Processing for Radiation Oncology: A Review and Practical Prime(Red journal, Jan 2021)](https://velog.io/@sjinu/Clinical-Natural-Language-Processing-for-Radiation-Oncology-A-Review-and-Practical-PrimeJan-2021)
-[[논문리뷰]A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios(ACL Anthology, Jun 2021)](https://velog.io/@sjinu/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0A-Survey-on-Recent-Approaches-for-Natural-Language-Processing-in-Low-Resource-ScenariosACL-Anthology-Jun-2021)
-[[논문리뷰] Deep learning in clinical natural language processing: a methodical review](https://velog.io/@sjinu/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-Deep-learning-in-clinical-natural-language-processing-a-methodical-review)
-[[논문정리] Survey : Survey papers for Clincal NLP(for 6 papers)](https://velog.io/@sjinu/Abstracts-of-several-review-paper-Clinical-NLP)
-[[논문리뷰] Medical Visual Question Answering: A Survey](https://velog.io/@sjinu/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-Medical-Visual-Question-Answering-A-Survey)
-
 ---
 
 
@@ -392,3 +384,13 @@ predict mortality and hospital stay time using distributed electronic medical re
   - unstructured radiation therapy로부터 toxicity data를 추출
   
   
+---
+
+
+# Ref
+
+[[논문리뷰]Clinical Natural Language Processing for Radiation Oncology: A Review and Practical Prime(Red journal, Jan 2021)](https://velog.io/@sjinu/Clinical-Natural-Language-Processing-for-Radiation-Oncology-A-Review-and-Practical-PrimeJan-2021)
+[[논문리뷰]A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios(ACL Anthology, Jun 2021)](https://velog.io/@sjinu/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0A-Survey-on-Recent-Approaches-for-Natural-Language-Processing-in-Low-Resource-ScenariosACL-Anthology-Jun-2021)
+[[논문리뷰] Deep learning in clinical natural language processing: a methodical review](https://velog.io/@sjinu/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-Deep-learning-in-clinical-natural-language-processing-a-methodical-review)
+[[논문정리] Survey : Survey papers for Clincal NLP(for 6 papers)](https://velog.io/@sjinu/Abstracts-of-several-review-paper-Clinical-NLP)
+[[논문리뷰] Medical Visual Question Answering: A Survey](https://velog.io/@sjinu/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-Medical-Visual-Question-Answering-A-Survey)
