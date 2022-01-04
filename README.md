@@ -1,8 +1,4 @@
 
----
-
-
-
 # Low-Resource Techniques
 
 
